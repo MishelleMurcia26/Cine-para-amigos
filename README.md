@@ -38,3 +38,13 @@ Es una aplicación web interactiva donde cualquier integrante puede proponer una
 
 # *Como es la pagina visualmente*
 
+<img width="1782" height="777" alt="image" src="https://github.com/user-attachments/assets/1db831a8-9677-4c25-b569-eca403a8dd0b" />
+
+<img width="1338" height="782" alt="image" src="https://github.com/user-attachments/assets/abd397ea-b9e6-4b82-8efb-d0b5eb1d50b2" />
+
+<img width="1345" height="671" alt="image" src="https://github.com/user-attachments/assets/2527f4c1-f18f-4504-a35b-ca66bc8919f4" />
+
+<img width="1360" height="538" alt="image" src="https://github.com/user-attachments/assets/54406845-0468-45a2-8e85-05def0106563" />
+
+<img width="1303" height="721" alt="image" src="https://github.com/user-attachments/assets/377e230a-a0cf-4111-8880-1af2e4b78c4f" />
+

@@ -35,3 +35,6 @@ Es una aplicación web interactiva donde cualquier integrante puede proponer una
 2.Instala las librerías necesarias de Python
 
 3.Asegúrate de tener configurada tu conexión a Oracle y arranca la app con streamlit
+
+# *Como es la pagina visualmente*
+
